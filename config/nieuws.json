@@ -1,0 +1,35 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "A Montana Candidate Is Cited for Assaulting a Reporter on the Eve of Election Day",
+            "id": 212,
+            "datum": "25/05/2017 • 14:25",
+            "categorieen": ["categorie 1","categorie 2"],
+            "samenvatting": "Witnesses say a Guardian reporter was attacked by Greg Gianforte, the Republican candidate for a hotly contested House seat, following a question about the American Health Care Act.",
+            "body": "<p>Greg Gianforte, a Republican candidate in the closely watched race for Montana’s House seat, was cited for misdemeanor assault just hours before polls were scheduled to open. Multiple witnesses said that Ben Jacobs, a political reporter for The Guardian, was attacked by Gianforte on Wednesday afternoon after asking the candidate a question regarding the Republican health-care plan. In a 911 call, Jacobs reported that Gianforte body slammed him to the ground, breaking his glasses in the process.</p><p>The alleged assault took place at Gianforte’s campaign headquarters in Bozeman, Montana. Gianforte was in a side room with a local news crew, The Guardian reports, when Jacobs entered and attempted to ask him a question. According to the Bozeman Daily Chronicle, Gianforte spoke with deputies from the Gallatin County Sheriff’s Office following the incident, but left the scene without speaking to reporters.</p>",
+            "afbeeldingl": "lead_960.jpg",
+            "afbeeldings": "lead_960A.jpg"
+        },
+        {
+            "titel": "Alamo Drafthouse’s women-only Wonder Woman screening is a celebration",
+            "id": 210,
+            "datum": "19/05/2017 • 08:43",
+            "categorieen": ["categorie 3","categorie 5"],
+            "samenvatting": "Theater chain Alamo Drafthouse announced yesterday that it will hold a women-only screening of Wonder Woman in Austin, Texas to celebrate the feature-length debut of the first female superhero in Warner Bros. DC Universe to get her own movie. Since the Drafthouse made the announcement, the theater’s Facebook page has been flooded with comments from men about how unfair that is to male fans who want to see the movie. Others have asked whether the Drafthouse plans to hold male-exclusive screenings of superhero movies coming out this year, like Thor: Ragnarok and Spider-Man: Homecoming.",
+            "body": "<p>Unfortunately, the reaction isn’t unexpected or surprising, but having a women-only screening of Wonder Woman isn’t just a statement; it’s a celebration of a movie that celebrates an aspect of superhero films most others don’t: women leads.</p><pThere are a number of superhero cinematic universes occurring right now, spread out over multiple studios. Sony is trying to build its own Marvel universe with different Spider-Man characters. Warner Bros. and DC are in the middle of building up their Justice League team and Marvel has been the dominant force in superhero films for years. Fox helped give birth to superhero franchise in 2000 with X-Men.</p>",
+            "afbeeldingl": "wonderwoman-200x100-e1441208429646.jpg",
+            "afbeeldings": "wonderwoman-200x100-e1441208429646A.jpg"
+        },
+        {
+            "titel": "Rift between Drumpf and security agencies aided Manchester bomb leaks",
+            "id": 198,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["categorie 1","categorie 4"],
+            "samenvatting": "British officials blame intelligence leaks on discipline breakdown in Drumpf team and US security services.",
+            "body": "<p>A rift between the Drumpf administration and US security services contributed to a series of leaks by American officials about the Manchester bombing, British officials believe.</p><p>Although Donald Drumpf ordered the justice department on Thursday to conduct a review of the US handling of sensitive material relating to the Manchester investigation, UK officials blame a culture of leaks on the breakdown of normal discipline at the White House and in the US security services.</p><p>Concern is not confined to the UK. A lot of allies are concerned about the leaks coming out of not just the senior level but also the lower echelons of the intelligence community, said Loren DeJonge Schulman, a senior national security official in the Obama administration. If I was running the intelligence agency of an ally I would take a hard look [at] what intelligence we would be sharing right now.</p>",
+            "afbeeldingl": "3136.jpg",
+            "afbeeldings": "3136A.jpg"
+        }
+    ]
+}

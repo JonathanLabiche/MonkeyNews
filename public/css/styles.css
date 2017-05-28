@@ -1,0 +1,83 @@
+body {
+  font-family: helvetica;
+  width: 90%;
+  margin: 25px auto;
+  line-height: 1.4em;
+}
+
+section {
+  margin: 25px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+}
+
+}
+h1{
+  font-family: "Standard Galactic Alphabet";
+	src: url('standard_galactic_alphabet.ttf');
+}
+
+h2 {
+  margin: 25px 0;
+}
+
+h3 {
+  display: inline;
+}
+
+nav {
+  margin: 25px 0;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 5px;
+}
+.navigatie ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+  width: 100%; /* Full-width */
+  background-color: #4CAF50; /* Dark-grey background */
+  overflow: auto; /* Overflow due to float */
+}
+.fa fa-globe{
+  float: left;
+}
+.container {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+/* Rotate first bar */
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+    transform: rotate(-45deg) translate(-9px, 6px) ;
+}
+
+/* Fade out the second bar */
+.change .bar2 {
+    opacity: 0;
+}
+
+/* Rotate last bar */
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+    transform: rotate(45deg) translate(-8px, -8px) ;
+}
